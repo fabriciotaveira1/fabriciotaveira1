@@ -2,7 +2,7 @@
 Good Day. My name's Fabrício, I'm Student of Analysis and Systems Development, 
 actually i am trainee in TRF of First Region, and I seek to be a development FuulStack, i've already done one course in SENAI Brasília, FrontEnd Course(HTML, CSS, BOOTSTRAP,JAVASCRIPT,JQUERY) and i'm studying Java at the moment.
 
-## Let's be Friends ?
+## Let's do a connection ?
 
 [![LinkedIn](https://img.shields.io/badge/linkedin-%230077B5.svg?style=for-the-badge&logo=linkedin&logoColor=white)](https://www.linkedin.com/in/fabr%C3%ADcio-taveira-309059211/) | [![GitHub](https://img.shields.io/badge/github-%23121011.svg?style=for-the-badge&logo=github&logoColor=white)](https://github.com/fabricio176) | [![Instagram](https://img.shields.io/badge/Instagram-%23E4405F.svg?style=for-the-badge&logo=Instagram&logoColor=white)](https://www.instagram.com/fabriciotaveira1/) |
  ------- | -------- | --------
