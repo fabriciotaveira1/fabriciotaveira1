@@ -18,6 +18,8 @@ actually i am trainee in TRF of First Region, and I seek to be a development Ful
 ![HTML5](https://img.shields.io/badge/HTML5-000?style=for-the-badge&logo=html5) | ![CSS3](https://img.shields.io/badge/CSS3-000?style=for-the-badge&logo=css3&logoColor=264CE4)
 --------- | -------|
 
+## Frameworks
+![Angular](https://icons8.com.br/icon/l9a5tcSnBwcf/angular)
 
 ## Programming Languages
 ![JavaScript](https://img.shields.io/badge/JavaScript-000?style=for-the-badge&logo=javascript) | ![Java](https://img.shields.io/badge/java-000.svg?style=for-the-badge&logo=openjdk&logoColor=red)
