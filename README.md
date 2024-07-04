@@ -4,7 +4,7 @@ Good Day. My name's Fabrício, I'm Student of Analysis and Systems Development.
 ## Let's do a connection ?
 
 [![LinkedIn](https://img.shields.io/badge/linkedin-%230077B5.svg?style=for-the-badge&logo=linkedin&logoColor=white)](https://www.linkedin.com/in/fabr%C3%ADcio-taveira-309059211/) | [![GitHub](https://img.shields.io/badge/github-%23121011.svg?style=for-the-badge&logo=github&logoColor=white)](https://github.com/fabricio176) |
- ------- | -------- | --------
+
  
 ## Skills
 ![Top Langs](https://github-readme-stats-git-masterrstaa-rickstaa.vercel.app/api/top-langs/?username=fabricio176&bg_color=000&border_color=FFF&title_color=FFF&text_color=5F9EA0	)
