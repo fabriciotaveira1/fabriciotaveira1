@@ -25,7 +25,6 @@ Good Day. My name's Fabrício, I'm Student of Analysis and Systems Development.
 ## Programming Languages
 ![JavaScript](https://img.shields.io/badge/JavaScript-000?style=for-the-badge&logo=javascript) | ![Java](https://img.shields.io/badge/java-000.svg?style=for-the-badge&logo=openjdk&logoColor=red) | ![Python](https://img.shields.io/badge/python-3670A0?style=for-the-badge&logo=python&logoColor=ffdd54)
 
----------- | --------|
 
 
 
