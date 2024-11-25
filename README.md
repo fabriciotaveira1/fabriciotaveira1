@@ -17,7 +17,7 @@
 
 I'm a student of **Systems Analysis and Development**, eager to apply my knowledge in real-world projects. I've gained practical experience through internships at **Federal Regional Court of the 1st Region** and **Taguatinga Regional Hospital**, where I developed administrative systems and analyzed large datasets.
 
-At the **Federal Regional Court**, I worked on **back-end development**, **system integration**, and **security**. While at the hospital, I contributed to **data analysis**, creating insightful **reports** with **Python**, **Pandas**, and **NumPy**.
+At the **Federal Regional Court**, I worked on **sql query** and **system integration**. While at the hospital, I contributed to **data analysis**, creating graphs and exploratory data analysis.
 
 With hands-on skills in **HTML**, **CSS**, **JavaScript**, **React**, **Node.js**, **Express**, and **MongoDB**, I am focused on mastering web development, building **REST APIs**, and exploring **Data Science** and **Machine Learning**.
 
