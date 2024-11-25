@@ -71,7 +71,7 @@ With hands-on skills in **HTML**, **CSS**, **JavaScript**, **React**, **Node.js*
 
 ## 💬 **Let’s Connect! / Vamos Conectar!**
 
-Feel free to reach out to me via [LinkedIn](https://www.linkedin.com/in/fabr%C3%ADcio-taveira-309059211/) or [GitHub](https://github.com/fabricio176). I’m always open to learning, sharing ideas, and collaborating on new projects!
+Feel free to reach out to me via [LinkedIn](https://www.linkedin.com/in/fabr%C3%ADcio-taveira-309059211/) or [GitHub](https://github.com/fabriciotaveira1). I’m always open to learning, sharing ideas, and collaborating on new projects!
 
 ---
 
